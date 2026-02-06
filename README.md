@@ -1,1 +1,1 @@
-# coding-project-template
+#  Paradise Nursery Shopping Cart App
